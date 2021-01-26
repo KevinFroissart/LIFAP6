@@ -1,8 +1,8 @@
 # Lifap6 — Liste chaînées
 
 Ce TP a pour but de vous rafraîchir la mémoire sur la programmation en `C++` et
-la conception de structures de données. Il prépare une séquence de TP à venir
-sur les Skip-Lists qui sont une évolution des liste chaînées.
+la conception de structures de données. Il prépare une séance de TP à venir
+sur les Skip-Lists qui sont une évolution des listes chaînées.
 
 ## Index
 

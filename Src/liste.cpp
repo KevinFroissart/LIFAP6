@@ -42,10 +42,8 @@ Liste::~Liste()
 {
   while (first->suivant != nullptr)
   {
-    supprimer_en_tete;
+    supprimer_en_tete();
   }
-  first->suivant == nullptr;
-  delete first;
   delete last;
 }
 

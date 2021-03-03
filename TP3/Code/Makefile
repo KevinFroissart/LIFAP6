@@ -7,6 +7,7 @@ LDFLAGS +=
 
 SOURCES = 
 SOURCES += labyrinthe.cpp
+SOURCES += UnionFind.cpp
 
 OBJECTS = $(SOURCES:.cpp=.o)
 
